@@ -1,6 +1,8 @@
 # facebook-chatbot-template
 minimal facebook chatbot starter
 
+![example](./images/example_1.jpg)
+
 # Instllation
 ```
 npm install
